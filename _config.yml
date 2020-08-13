@@ -1,5 +1,4 @@
-#page title
-page_title                                : 
+page_title : Apparent Sudoku
 
 # App Info
 ios_app_id                                : 1518508009                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
