@@ -5,56 +5,50 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+August 13, 2020
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+# Privacy Policy for Apparent Sudoku
+Apparent Logic, LLC has adopted this Privacy Policy to explain how Apparent Logic, LLC collects, stores, and uses the information collected in connection with Apparent Logic, LLC's Sudoku. Apparent Logic, LLC respects the privacy of the users of their Apps ("User" or "you") and is committed to protecting the User's information. You have a right to know our practices regarding the information Apparent Logic, LLC may collect and use when you use our game.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+Apparent Logic, LLC reserves the right to modify this Privacy Policy at any time, so please review it frequently. Your continued use of the game will signify your acceptance of the changes to this Privacy Policy.
 
-<br>
+**PLEASE NOTE:** IF YOU OR, AS APPLICABLE, YOUR LEGAL GUARDIAN, DISAGREE TO ANY TERM PROVIDED HEREIN, YOU MAY NOT INSTALL, ACCESS AND/OR USE THE APPS AND YOU ARE REQUESTED TO PROMPTLY ERASE THEM, AND ANY PART THEREOF, FROM YOUR MOBILE DEVICE.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+If you are under 13 years of age or a minor in your country of residence, please ask your legal guardian for permission to access the apps after your legal guardian reviews this Privacy Policy. Apparent Logic, LLC encourages parents and/or guardians to play an active role in their children's online experience. This Privacy Policy is designated to provide the legal guardian of a child under the age of 13 years old, with guidance regarding our privacy policies and principles with respect to collecting, using and disclosing personal information regarding children under the age of 13 ("Kids") when using our apps.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+## 1. Personal Information
+While the apps are being used by our Apparent Logic, LLC does not knowingly collect Personal Information from any Users and hereby specifically prohibit any User under the age of 13 from providing Apparent Logic, LLC with any Personal Information. If you are a legal guardian of a child under the age of 13 and you believe that your child has provided Apparent Logic, LLC Personal Information, please contact us at privacy@apparentlogic.com and Apparent Logic, LLC will delete such information from our servers.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
-
-<br>
-
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
-
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
-
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+For purposes of this Privacy Policy, "Personal Information" includes without limitation the following:
+First and last name;
+A home or other physical address including street name and name of a city or town;
+Online contact information;
+A screen or user name that functions as online contact information;
+A telephone number;
+A social security number;
+A persistent identifier that can be used to recognize a User over time and across different websites or online services, including a cookie number, an IP address, a processor or device serial number, or a unique device identifier;
+A photograph, video, or audio file, where such file contains a Kid's image or voice;
+Geolocation information sufficient to identify a User's street name and name of a city or town; or
+Any information collected online from a Kid (and/or the Kid's legal guardian) and combined with any item of information listed above.
+Apparent Logic, LLC does not directly collect and store on its servers any Personal Information from Users of the apps.
 
 <br>
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## 2. Non-personal Data
+Apparent Logic, LLC collects non-identifiable and anonymous information via Apple, Inc. as detailed below ("Non-personal Data"). Apparent Logic, LLC only receives data from Apple from users who have agreed to share their diagnostics and usage information with app developers.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+With respect to such apps Non-personal Data, Apparent Logic, LLC has no idea of the identity of the User from whom Apple collected the game Non-personal Data. App Non-personal Data collected by Apple may include the following technical information: device type (e.g. iPhone, iPad, iPod) and country of sale (e.g. United States, United Kingdom, Germany, etc).
 
 <br>
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## 3 How User Information is Collected
+The above-mentioned Non-personal Data are collected by Apple, Inc. and stored on Apple's servers. Apparent Logic, LLC accesses the data via a iTunes Connect, App Analytics. For more information on Apple's User Information collection please refer to their privacy policy at http://www.apple.com/legal/privacy/
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## 4 Advertising
+Apparent Logic, LLC does not display external advertising in its Apps.
+
+Information about this privacy policy
+
+This privacy policy relates solely to Sudoku distributed via Apple's App Stores.
